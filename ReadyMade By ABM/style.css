@@ -1,0 +1,47 @@
+/*----------------------------------------------------------------------------------
+	Template Name: Portfolio Personal Website
+	Template URL: http://www.abm.com
+	Description: Personal Website
+	Author: Md. Majidul Islam
+	Author URL: http://www.ab-majid.info 
+	Version: 2022.0.1
+-----------------------------------------------------------------------------------
+
+	1. Typography
+	2. Header Area
+		2.1 logo
+	3. Getting Started
+	4. Design Area
+	5. Community Area
+	6. Subscribe Area
+	7. Download Area
+	8. Footer Area
+-----------------------------------------------------------------------------------*/
+
+
+/************** 1. Typography ************************/
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6, 
+a, 
+p,
+ul{
+	margin: 0;
+	text-decoration: none;
+	padding: 0;
+}
+p{
+	color: #848789;
+	line-height: 30px;
+}
+body{
+	margin:0; 
+	padding: 0;
+}
+/************ Header Area ************/
+
+/************** 2. Header Area ************************/
